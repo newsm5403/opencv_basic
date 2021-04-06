@@ -6,13 +6,13 @@
 
 2개의 코드 프로젝트가 있다.
 
-project1은 opencv를 이용해 차량 번호판의 번호를 인식하는 코드이다.
+1. project1은 opencv를 이용해 차량 번호판의 번호를 인식하는 코드이다. <br>
 <img src="/project1/unnamed.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 <img src="/project1/gray.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>>
 <img src="/project1/canny.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 <img src="/project1/snake.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-project2는 opencv를 이용해 차선을 인식하는 코드이다.
+2. project2는 opencv를 이용해 차선을 인식하는 코드이다. <br>
 <img src="/project2/slope_test.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 <img src="/project2/gray.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 <img src="/project2/canny.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
